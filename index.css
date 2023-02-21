@@ -1,0 +1,127 @@
+.navbar{
+    background-color: rgb(10, 28, 54);
+    border-radius: 30px;
+}
+.navbar ul {
+    overflow: auto;
+}
+.navbar li {
+    float:left;
+    list-style: none;
+    margin: 8px 20px;
+}
+.navbar li a {
+    text-decoration: none;
+    padding: 3px 3px;
+    color: white;
+}
+.navbar li a:hover{
+    background-color: white;
+    color: rgb(10, 28, 54);
+    border-radius: 4px;
+}
+.navbar input{
+    padding: 5px 17px;
+    width: 193px;
+    margin: 3px 1px;
+    border-radius: 23px;
+    float:right;
+}
+.pic{
+    float: right;
+    margin: 3px 40px 0px 7px;
+    padding: 0px 11px 0px 0px;
+    cursor: pointer;
+}
+.navbar img {
+    height: 29px;
+    width: 29px;
+}
+.img{
+    clear:right;
+    float:left;
+    width: 50%;
+}
+.img img{
+    height: 500px;
+    width: 75%;
+    box-sizing: border-box;
+    padding: 69px 8px 11px 20px;
+    margin-left: 20px;
+}
+.text{
+    float: left;
+    width: 50%;
+    box-sizing: border-box;
+    padding: 150px 8px 30px 14px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.text p {
+    font-size: 21px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.but {
+    float: left;
+    padding: 3px 26px 9px 28px;
+    background-color: #2c2c96;
+    border-radius: 14px;
+    margin: 8px 25px 7px 11px;
+    cursor: pointer;
+}
+.but a{
+    text-decoration: none;
+    color: white;
+    float: left;
+    padding: 5px 6px 1px 16px;
+    clear: left;
+    font-size: 21px;
+}
+.material-symbols-outlined {
+    padding: 6px 10px 1px 16px;
+    color: white;
+    float: right;
+    clear: right;
+}
+.but:hover{
+    background-color: #030340;
+}
+.text span{
+    background: linear-gradient(to right,rgb(44, 63, 185), rgb(200, 55, 173));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: 'Kanit', sans-serif;
+  font-weight: 50px;
+}
+.hsccrackers a{
+    text-decoration: none;
+}
+.hsccrackers a{
+    
+    float: left;
+    width: 190px;
+    height: 36px;
+    padding-top: 6px;
+    font-size: medium;
+    margin-left: 5px;
+    margin-right: 221px;
+    color: white;
+    font-family: 'Kanit', sans-serif;
+    font-weight: bold;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+.hsccrackers a:hover{
+    
+    float: left;
+    width: 190px;
+    height: 36px;
+    padding-top: 6px;
+    font-size: medium;
+    margin-left: 5px;
+    margin-right: 221px;
+    color: rgb(239, 176, 18);
+    font-family: 'Kanit', sans-serif;
+    font-weight: bold;
+    box-sizing: border-box;
+    cursor: pointer;
+}

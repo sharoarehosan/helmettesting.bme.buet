@@ -1,0 +1,50 @@
+.title {
+    color: rgb(9, 18, 82);
+}
+.subtitle {
+    color: rgb(19, 146, 146);
+}
+.form {
+    border: 5px solid rgb(240 135 10);
+    border-radius: 8px;
+    display: inline-block;
+    width: 300px;
+    padding: 30px;
+    margin-top: 50px;
+    margin-left: 50px;
+    background-color: aliceblue;
+}
+#value {
+    color:rgb(16 224 243);
+    display: inline-block;
+    text-align: center;
+    height:150px;
+    width:500px;
+    margin-right: 100px;
+    margin-top: 250px;
+    background-color: black;
+}
+.submit{
+    border-radius: 4px;
+    height: 35px;
+    width:80px;
+    background-color: rgb(4, 4, 65);
+    color:white;
+    cursor:pointer;
+}
+#default {
+    color: rgb(234, 208, 9);
+    margin-left: 40px;
+    display: inline-block;
+}
+#values {
+    display: inline-block;
+    float: right;
+    width:700px;
+
+}
+.submit:hover{
+    background-color: yellowgreen;
+    color: black;
+}
+
